@@ -252,13 +252,12 @@
     .top-button {
         position: fixed;
         display: inline-block;
-        bottom: 72px;
-        right: 36px;
+        bottom: 20px;
+        left: 20px;
         border-radius: 100%;
         padding: 0.5rem 1.2rem;
-        border: 3pt solid;
-        color: #a7b6c4;
         font-size: 1.5rem;
+        background: #a7b6c4;
         font-weight: bolder;
     }
     
@@ -358,7 +357,7 @@
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background-color: #1ef0a0;
+  background-color: #a7b6c4;
   box-shadow: 4px 4px 2px 1px rgba(0, 0, 0, 0.2);
   position: absolute;
   z-index: 5;
@@ -383,8 +382,8 @@
   height: 2.5em;
   border-radius: 50%;
   position: absolute;
-  background-color: #4644fd;
-  color: #fff;
+  background-color: #a7b6c4;
+  color: #ffffff;
   text-align: center;
 }
 .btn-app .fa {
