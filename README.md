@@ -35,7 +35,7 @@ Blogger and youtuber also. you can reach me at my [blog](tecnotute.blogspot.com)
 [![facebook](https://img.shields.io/badge/facebook-fff?style=for-the-badge&logo=facebook&logoColor=blue)](https://web.facebook.com/shahid.hamid.1460/)
 [![quora](https://img.shields.io/badge/quora-fff?style=for-the-badge&logo=quora&logoColor=red)](https://tecnotute.quora.com)
 [![pinterest](https://img.shields.io/badge/pinterest-fff?style=for-the-badge&logo=pinterest&logoColor=red)](https://tecnotute.pinterest.com)
-[![instagram](https://img.shields.io/badge/intagram-fff?style=for-the-badge&logo=instagram&logoColor=#3f729b)](https://twitter.com/ehsansh787)
+[![instagram](https://img.shields.io/badge/intagram-fff?style=for-the-badge&logo=instagram&logoColor=#3f729b)](https://twitter.com/ehsan_sh787)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://tecnotute.medium.com)
 [![email](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)](https://feedburner.google.com/fb/a/mailverify?uri=Tecnotute&loc=en_US)
 
