@@ -252,7 +252,7 @@
     .top-button {
         position: fixed;
         bottom: 1em;
-        right: 78px;
+        left: 1em;
         border-radius: 100%;
         padding: 1rem;
         background: #a7b6c4;
@@ -261,6 +261,7 @@
         height: 60px;
         text-align: center;
         display: table;
+        box-shadow: 4px 4px 2px 1px rgb(0 0 0 / 20%);
     }
     
     .top-button::before,
