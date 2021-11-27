@@ -12,12 +12,12 @@ This website is free for every one and anyone can download it freely without any
 
 ## Acknowledgements
 
- - [Live Demo](https://ehsan-sh787.github.io/blog/)
- - [source code](https://github.com/matiassingers/awesome-readme) 
+ - [Live Demo](https://tecnotute.github.io/blog/)
+ <!-- - [source code](https://github.com/matiassingers/awesome-readme)  -->
 
 ## Authors
 
-- [Github - @ehsan-sh787](https://www.github.com/ehsan-sh787)
+- [Github - @tecnotute](https://www.github.com/tecnotute)
 
 
 ## Tech Stack
